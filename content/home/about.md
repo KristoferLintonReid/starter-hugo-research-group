@@ -22,3 +22,7 @@ design:
   view: 3
   columns: '1'
 ---
+
+<br>
+
+The **Ovarian Cancer Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
