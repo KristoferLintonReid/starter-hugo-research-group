@@ -6,7 +6,7 @@ title: Jen Barcroft
 superuser: true
 
 # Role/position
-role: TBC
+role: Research Fellow
 # Organizations/Affiliations
 organizations:
   - name: Imperial College London
