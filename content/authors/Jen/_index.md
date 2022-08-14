@@ -40,9 +40,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
 
-Jen Barcroft is Professor of Cancer Pharmacology & Molecular Imaging and Director of the CRUK-EPSRC-MRC-NIHR Comprehensive Cancer Imaging Centre. He joined the college after a PhD at the CRUK Beatson Laboratories in Glasgow, UK and post-doc fellowship at The Johns Hopkins University & Hospital in Baltimore, USA. His group is interested in the discovery and development of new methods for experimental and clinical cancer molecular imaging. In the past 5 years, the team has invented and translated three novel cancer diagnostics into human application. He has acted as an advisor to GE-Healthcare, GSK, Roche and Novartis.
-
-Professor Aboagye was recipient of the 2009 Sir Mackenzie Davidson Medal and was  elected as a Fellow of the Academy of Medical Sciences in 2010. Academy Fellows are elected for outstanding contributions to the advancement of medical science, for innovative application of scientific knowledge or for conspicuous service to healthcare.
+Jen Barcroft is an ST6 Obstetrics and Gynaecology registrar, with a specialist interest in reproductive medicine, ultrasound scanning and the influence of technology within gynaecology. 
