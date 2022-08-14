@@ -20,4 +20,4 @@ design:
 
 <br>
 
-We develop cutting-edge AI tools, with the goal of improving ovarain cancer diagnositics 
+We develop cutting-edge AI tools, with the goal of improving ovarian cancer diagnositics 
