@@ -43,4 +43,4 @@ user_groups:
   - Researchers
 ---
 
-Jen Barcroft is an ST6 Obstetrics and Gynaecology registrar, with a specialist interest in reproductive medicine, ultrasound scanning and the influence of technology within gynaecology. 
+Jen Barcroft is a senior clinical research fellow, with a specialist interest in reproductive medicine, ultrasound scanning and the influence of technology within gynaecology. 
