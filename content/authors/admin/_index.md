@@ -22,18 +22,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -49,9 +40,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Prinicpal Investigators
+  - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Eric Aboagye is Professor of Cancer Pharmacology & Molecular Imaging and Director of the CRUK-EPSRC-MRC-NIHR Comprehensive Cancer Imaging Centre. He joined the college after a PhD at the CRUK Beatson Laboratories in Glasgow, UK and post-doc fellowship at The Johns Hopkins University & Hospital in Baltimore, USA. His group is interested in the discovery and development of new methods for experimental and clinical cancer molecular imaging. In the past 5 years, the team has invented and translated three novel cancer diagnostics into human application. He has acted as an advisor to GE-Healthcare, GSK, Roche and Novartis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Professor Aboagye was recipient of the 2009 Sir Mackenzie Davidson Medal and was  elected as a Fellow of the Academy of Medical Sciences in 2010. Academy Fellows are elected for outstanding contributions to the advancement of medical science, for innovative application of scientific knowledge or for conspicuous service to healthcare.
