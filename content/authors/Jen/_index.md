@@ -6,7 +6,7 @@ title: Jen Barcroft
 superuser: true
 
 # Role/position
-role: Professor of Cancer Pharmacology & Molecular Imaging
+role: TBC
 # Organizations/Affiliations
 organizations:
   - name: Imperial College London
@@ -24,7 +24,7 @@ organizations:
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/scientific-contributions/2164118244-Jen-Barcroft
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
