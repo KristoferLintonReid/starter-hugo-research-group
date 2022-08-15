@@ -6,7 +6,7 @@ title: Jen Barcroft
 superuser: true
 
 # Role/position
-role: Research Fellow
+role: Clinical Research Fellow
 # Organizations/Affiliations
 organizations:
   - name: Imperial College London
@@ -43,4 +43,4 @@ user_groups:
   - Researchers
 ---
 
-Jen Barcroft is a senior clinical research fellow, with a specialist interest in reproductive medicine, ultrasound scanning and the influence of technology within gynaecology. 
+Dr Jen Barcroft is a senior clinical research fellow, with a specialist interest in reproductive medicine, ultrasound scanning and the influence of technology within gynaecology. 
