@@ -29,4 +29,8 @@ Ovarian cancer remains the leading cause of death in women from a gynaecological
 
 We are evaluating the application of machine learning (Deep Learning and Radiomics) in the classification of adnexal masses on ultrasound. We have demonstrated comparable performance of a ML based model to an expert ultrasound examiner, we have an objective tool capable of supporting the classification of adnexal masses globally, which translates to improved ovarian cancer diagnosis and overall outcomes.
 
-Our international team combines leaders in the field of Radiomics and Deep Learning (Prof Eric Aboagye, Kristofer Linton-Reid), Gynaecology Ultrasound (Prof Tom Bourne, Dr Maya Al-Memar, Dr Chiara Landolfo, Dr Jen Barcroft), Gynaecology Oncology (Dr Srdjan Saso, Prof Savelli, Prof Sara Lee) and Radiology (Dr Nishat Bharwani).
+Our international team combines leaders in the field of Radiomics and Deep Learning (Prof Eric Aboagye, Kristofer Linton-Reid), Gynaecology Ultrasound (Prof Tom Bourne, Dr Maya Al-Memar, Dr Chiara Landolfo, Dr Jen Barcroft), Gynaecology Oncological Ultrasound (Dr Srdjan Saso, Prof Savelli, Prof Sara Lee) and Radiology (Dr Nishat Bharwani). 
+
+We are affiliated with the International Ovarian Tumour Analysis (IOTA) Group and KU Leuven. 
+
+
