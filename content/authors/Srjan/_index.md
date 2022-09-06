@@ -42,4 +42,6 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-Srdjan Saso is a Consultant Gynaecologist and Gynaecological Cancer Surgeon at Queen Charlotte’s Hospital (Imperial College NHS Trust). He is also an Honorary Clinical Lecturer in the Department of Metabolism, Digestion and Reproduction, Imperial College London. 
+Srdjan Saso is a Consultant Gynaecologist and Gynaecological Cancer Surgeon at Queen Charlotte’s Hospital (Imperial College NHS Trust). He is also an Honorary Clinical Senior Lecturer in the Department of Metabolism, Digestion and Reproduction, Imperial College London. His main academic and clinical interests lie in gynaecological surgery and ultrasound, with a particular focus on fertility-sparing surgery (cancer and non-cancer) and uterine transplantation. His PhD from Imperial College London focused on the surgical aspects of fertility preservation and the anatomical, immunological, and psychological issues related to uterine transplantation. He is on the Scientific Board of the International Society of Ultrasound in Obstetrics and Gynaecology.
+
+Dr Saso is a great believer in translational clinical and academic work and especially projects that have the potential for cross-fertilisation between medical and non-medical areas. His current research is focused upon the applications of different innovative technologies to improve the detection of gynaecological disease. He is co-supervising a PhD on the integration of machine learning to enhance the diagnostic capabilities of ultrasound in the assessment of adnexal masses.
