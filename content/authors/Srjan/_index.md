@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Srjan Sasso
+title: Srdjan Saso
 
 # Is this the primary user of the site?
 superuser: true
